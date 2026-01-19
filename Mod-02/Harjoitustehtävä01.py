@@ -1,5 +1,5 @@
 print("Hei Maailma!")
-# Printtasin ensin huvin vuoksi Hei maailma tämä vaan lisää vähän ohjelmaan tunnelmaa
+# Printtasin ensin Hei maailma
 nimi = input("mikä on nimesi? ")
 print("Moi " + nimi + ", mitä kuuluu?")
 
