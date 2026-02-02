@@ -3,7 +3,8 @@
 # Liian pieni arvaus tai Oikein. Huomaa, että tietokone ei saa vaihtaa lukuaan arvauskertojen välissä
 
 import random
+kysyttyluku = int(input("Anna luku! "))
+luku = random.randint(1,10)
 
-while True:
-    random.randint(1,10,)
-    luku = int(input("Arvaa luku 1-10 "))
+while kysyttyluku != luku:
+
