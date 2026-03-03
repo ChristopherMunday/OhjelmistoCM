@@ -6,5 +6,12 @@ import random
 kysyttyluku = int(input("Anna luku! "))
 luku = random.randint(1,10)
 
-while kysyttyluku != luku:
+loop = True
 
+while kysyttyluku != luku:
+    if kysyttyluku < luku:
+        print("Arvaus oli liian pieni ")
+    if kysyttyluku > luku:
+        print("Arvaus oli liian suuri ")
+    kysyttyluku = int(input("Anna luku! "))
+print("Arvasit oikein ")
