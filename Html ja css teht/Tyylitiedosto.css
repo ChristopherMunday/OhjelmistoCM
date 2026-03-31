@@ -1,0 +1,16 @@
+head {
+    position: absolute;
+    p {
+        right: 10px;
+    }
+    p {
+        right: 20px;
+    }
+    p {
+        right 30px;
+    }
+}
+
+body{
+    background-color: crimson;
+}
