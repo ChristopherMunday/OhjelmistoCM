@@ -1,0 +1,129 @@
+body {
+    background: #79031D;
+    margin-top: -20px;
+    margin-left: 0;
+    margin-right: 171px;
+}
+
+nav {
+    background-color: black;
+    margin-right: -171px;
+
+}
+header {
+    img {
+
+        margin-top: -16px;
+    }
+}
+
+ h1 {
+     color: black;
+     font-family: Inter;
+     font-size: 28px;
+     background: #ffe4b5;
+     text-align: left;
+     margin-top: 0;
+     margin-left: 0;
+     margin-right: -171px;
+     margin-bottom: 0;
+ }
+
+ul {
+    list-style-type: none;
+    background-color: black;
+    img {
+        object-fit: cover;
+        margin-right: 300px;
+    }
+}
+li {
+    a {
+    text-decoration: none;
+        color: white;
+}
+    a:hover {
+        background-color: #3b3d3b;
+    }
+    font-family: Inter;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    color: white;
+    font-size: 82px;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    padding: 20px
+}
+
+article {
+    background-color: #3a3d3a;
+    margin-right: -171px;
+    margin-top: 70px;
+    img {
+  border: 5px solid #000000;
+}
+}
+
+h2 {
+    color: black;
+    margin-top: -6px;
+    margin-bottom: 2px;
+}
+
+#kuva1 {
+    background: #ffe4b5;
+    background: rgba(255, 228, 181, 0.9);
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 10px rgba(0,0,0,0.4);
+}
+
+#kuva2 {
+    background: #ffe4b5;
+    background: rgba(255, 228, 181, 0.9);
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 10px rgba(0,0,0,0.4);
+}
+
+#kuva3 {
+    background: #ffe4b5;
+    background: rgba(255, 228, 181, 0.9);
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 10px rgba(0,0,0,0.4);
+}
+
+#kuvat {
+    padding: 20px;
+    display: flex;
+    gap: 200px;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+.image-box {
+    text-align: center;
+}
+
+#texti1 p {
+    font-family: Inter;
+    margin-top: 10px;
+    font-size: 24px;
+    color: black;
+}
+
+#texti2 p {
+    font-family: Inter;
+    margin-top: 10px;
+    font-size: 24px;
+    color: black;
+}
+
+#texti3 p {
+    font-family: Inter;
+    margin-top: 10px;
+    font-size: 24px;
+    color: black;
+}

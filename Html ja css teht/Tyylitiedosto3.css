@@ -5,24 +5,11 @@ body {
     margin-right: 171px;
 }
 
-
 nav {
     background-color: black;
     margin-right: -171px;
 
 }
-
- h1 {
-     color: black;
-     font-family: Inter;
-     font-size: 88px;
-     background: #ffe4b5;
-     text-align: center;
-     margin-top: 0;
-     margin-left: 0;
-     margin-right: -171px;
-     margin-bottom: 0;
- }
 
 
 ul {
@@ -49,20 +36,18 @@ li {
     text-align: center;
     float: none;
     display: inline-block;
-    padding: 20px;
+    padding: 20px
 }
 
-
-
-div {
-    img {
-        margin-left: 450px;
-            border: 6px solid #ffe4b5;
-    }
-}
-
-h2 {
+header {
     background: #ffe4b5;
-    text-align: center;
-    margin-right: -171px;
+    margin-right: 800px;
+    color: black;
+}
+
+article {
+    iframe {
+        margin-left: 620px;
+        margin-top: -342px;
+    }
 }
